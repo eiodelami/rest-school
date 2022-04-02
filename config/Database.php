@@ -4,7 +4,7 @@
         // DATABASE PRIVATE PARAMETERS
         private $connection;
         private $hostname = 'localhost';
-        private $database = 'eioportal';
+        private $database = 'rest_school';
         private $username = 'root';
         private $password = '';
 
